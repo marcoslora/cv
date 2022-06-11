@@ -18,3 +18,8 @@ h2 {
 h3 {
     color: #66BFBF;
 }
+
+#imagemarcos {
+    background-color: white;
+    border-radius: 100%
+}
